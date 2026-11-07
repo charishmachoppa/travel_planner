@@ -1,17 +1,43 @@
-# travel_planner
+# ✈️ TravelMate – Luxury Travel Planner
 
-A new Flutter project.
+A Flutter-based Travel Planner Web Application designed to make trip planning simple, organized, and enjoyable.
+
+## Features
+
+- Luxury dark-themed user interface
+- Responsive desktop and mobile design
+- Explore beautiful travel destinations
+- Search and discover destinations
+- Create and manage trips
+- Add and manage itinerary activities
+- View trip budget summaries
+- Save trip information locally
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+- Shared Preferences
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+    git clone https://github.com/charishmachoppa/travel_planner.git
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Navigate to the project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    cd travel_planner
+
+Install dependencies:
+
+    flutter pub get
+
+Run the application:
+
+    flutter run -d chrome
+
+## Developer
+
+Developed as a Flutter Travel Planner project.
